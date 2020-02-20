@@ -1,11 +1,16 @@
 # buscaCosas
 
-<p>Script hecho en python que permite a traves de un archivo csv "lsitadoObjetos" ir a mercado libre y extraer
-los precios el nombre el link mas vendidos etc, de los primeros "10" el cual es parametrizado </p>
+## Introducción
+
+Script hecho en python que permite a traves de un archivo csv "lsitadoObjetos" ir a mercado libre y extraer
+los precios el nombre el link mas vendidos etc, de los primeros "10" el cual es parametrizado 
+
+## Ejemplos
 
 <img src="./foto1.png">
 <img src="./foto2.png">
 
+## Instalación
 instalar python permitir variables de entorno
 <code>
 pip install requests
